@@ -10,7 +10,7 @@ The aim of this project is to static analyze an old AVR RS-232 programmer (calle
 
 - `_HTML`: index.html webpage containing steps I used in the explanation video below, worth checking 
 - `callgraph.pdf`: functions call graph
-- sd.c: serialdoodad c
+- `sd.c`: serialdoodad c
 - `serialcomm.py`: serialdoodad read signature in python
 - `sig_table.py`: contains avr signatures and the corresponding avr
 - `test123.py`: temp file to compare python with c system calls
